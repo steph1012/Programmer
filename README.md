@@ -21,3 +21,7 @@ You need to find out what's the minimum number of days that you can finish m lin
   For each testcase print only one number which means the minimum number of days that you can finish mm lines of code.
   Remember to print \n at the end of output.
 
+
+Solution:
+
+choosing the max cup of coffee to be the first one, and using the binary search to find the corresponding coffee.
